@@ -1,2 +1,0 @@
-# .github
-A Company Description
